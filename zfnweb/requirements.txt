@@ -1,6 +1,6 @@
 beautifulsoup4==4.8.2
 bs4==0.0.1
-cryptography==3.2
+cryptography==3.3.2
 Django==3.0.7
 django-extensions==2.2.6
 django-werkzeug-debugger-runserver==0.3.1
