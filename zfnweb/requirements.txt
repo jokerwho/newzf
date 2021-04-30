@@ -12,7 +12,7 @@ pymysql==0.9.3
 openpyxl==2.6.4
 pycrypto==2.6.1
 pyOpenSSL==19.1.0
-rsa==4.0
+rsa==4.7
 sqlparse==0.3.0
 requests==2.22.0
 pycryptodome==3.9.6
